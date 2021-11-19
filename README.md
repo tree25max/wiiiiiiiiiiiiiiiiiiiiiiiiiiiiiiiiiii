@@ -1,2 +1,2 @@
-# wiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-wiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii te digo wiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+# collisionAlgorithm
+Algorithm to detect collision between two objects
